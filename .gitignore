@@ -1,0 +1,14 @@
+/vendor
+/public/app/node_modules
+/public/storage
+/public/resources
+/public/tmp
+Homestead.yaml
+Homestead.json
+/.env
+/assets/vendor
+/html
+/.idea
+/node_modules
+/adjustment
+/storage

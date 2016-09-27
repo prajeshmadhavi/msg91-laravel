@@ -1,0 +1,7 @@
+.container.top__holder {
+    height: 90vh;
+}
+.hugger{
+    display: flex;
+    transform: translateY(30%);
+}
